@@ -20,6 +20,7 @@
 
 - `go run ./soal_4/main.go`
 
+![](sc_soal_1%2C2%2C3%2C4.png)
 
 ### Soal 5
 
@@ -29,3 +30,4 @@ before start make sure environment already exist on Operating System
 
 2. `go run ./soal_5/`
 
+![](sc_soal_5.png)
